@@ -12,10 +12,10 @@ Anaconda - Python 3.7
 ### Step 5: Print both the values it would be interchanged
 ### Step 6: End the program
 ## Program:
+```
 #Program to circulate N values.
 #Developed by: Selva Kumar A
 #RegisterNumber:22009007
-```
 def circulate():
     x=a[b:]+a[:b]
     print("After circulating the values are:",x)
